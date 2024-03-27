@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.29.2"
+  },
+  "name": "gmail-ai-extension",
+  "type": "module",
+  "description": "Chrome Extension for summarizing and creating action items from gmail using ChatGPT",
+  "version": "1.0.0",
+  "main": "summarize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "chrome",
+    "extension",
+    "gmail",
+    "summarizer"
+  ],
+  "author": "Paul Laird",
+  "license": "ISC"
+}
